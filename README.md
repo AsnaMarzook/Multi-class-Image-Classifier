@@ -48,8 +48,7 @@ After training, the code evaluates the model's performance on the test data. It 
 <img src = "assets/Preview3.png" />
 </div>
 
-## Author
-Asna Marzook
+
 
 
 
