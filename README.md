@@ -51,10 +51,5 @@ After training, the code evaluates the model's performance on the test data. It 
 ## Author
 Asna Marzook
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-@Thlurte
 
 
